@@ -1,0 +1,29 @@
+{
+  "name": "alexa-languageq-skill",
+  "version": "1.0.0",
+  "description": "Alexa Skill to evaluate countries language quotient",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app": "^4.0.0",
+    "alexa-app-server": "^3.0.1",
+    "alexa-sdk": "^1.0.6",
+    "aws-sdk": "^2.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbzebra/languageq.git"
+  },
+  "keywords": [
+    "Alexa",
+    "skill",
+    "languageq",
+    "language",
+    "quotient"
+  ],
+  "author": "Mariswaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbzebra/languageq/issues"
+  },
+  "homepage": "https://github.com/mbzebra/languageq#readme"
+}

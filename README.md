@@ -1,2 +1,2 @@
 # languageq
-Language Quotient
+Language Quotient Alexa Skill
